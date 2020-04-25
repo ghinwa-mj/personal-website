@@ -25,11 +25,11 @@ date_format = "Jan 2006"
   date_start = "2018-11-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+* Implemented an industrial assessment plan for annexed land in a Canadian region to identify optimal economic use by conducting: Reverse Site Selection, Location Quotient and Asset and Sector Oppurtunity Identification Analysis 
+* Implemented a USAid project on optimizing a national Investment Promotion Agency (IPA) in the Middle East
+* Outlined an economic diversification plan for a Canadian region by redefining its IPA structure, mandate and target industries
+* Conducted site data analysis and comparisons for corporate clients in various industries (technology, manufacturing, etc..) to recommend expansion plans
+* Conducted trainings for IPAs on ”Local Skills Retention and Company Retention”
   """
 
 [[experience]]
@@ -39,7 +39,10 @@ date_format = "Jan 2006"
   location = "London, United Kingdom"
   date_start = "2018-01-08"
   date_end = "2018-12-10"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  * Conducted research and analysis on the economic and political developments in the Middle East
+  * Participated in periodic publications and client conference calls to present the analytical content
+  """
 
 [[experience]]
   title = "Research Consultant"
@@ -48,7 +51,12 @@ date_format = "Jan 2006"
   location = "London/South Africa"
   date_start = "2018-01-03"
   date_end = "2018-12-09"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  * Conducted quantitative and qualitative research to identify country level performance analysis of Special Economic Zones (SEZ)
+  * Developed an analytical study on the performance of the Coega Industrial Development Zone in South Africa
+  * Developed a case-study on the spillover effects of the Coega Industrial Zone on Small and Medium Enterprises (SME)
+  * Presented analysis and practical recommendations on SEZ success factors and methods to integrate SEZs and SME development
+  """
 
 [[experience]]
   title = "Research Consultant Intern"
@@ -57,7 +65,10 @@ date_format = "Jan 2006"
   location = "Beirut, Lebanon"
   date_start = "2017-01-01"
   date_end = "2017-09-30"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  * Analyzed data, using Stata for statistical coding, for a poverty household survey in Lebanon to draw conclusions on poverty dynamics
+  * Applied Stata for statistical coding of the data set analysing its demographic, employment, health, education and expenditure indicators
+  """
 
 [[experience]]
   title = "Certified SAT Instructor"
@@ -66,5 +77,7 @@ date_format = "Jan 2006"
   location = "Beirut, Lebanon"
   date_start = "2017-01-05"
   date_end = "2017-09-30"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  * Attended 35 hours of training in order to attain an certification for SAT tutoring from the Princeton Review
+  * Taught private and group classes SAT Math and English subjects"""
 +++

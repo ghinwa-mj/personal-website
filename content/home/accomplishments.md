@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com/"
+  title = "Python for Data Sciene and Machine Learning and Bootcamp"
+  url = ""
+  certificate_url = "files/machinelearning.pdf"
+  date_start = "2020-01-04"
+  date_end = ""
+  description = "Implementing various Data Analysis (Linear & Logistic Regressions, K-Means & K-Neighbours Clustering, PCA, Random Forests), Data Visualization and Deep Learning techniques through Python."
+
+[[item]]
   organization = "10th International Conference on Modern Research in Economics, Management and Accounting"
   organization_url = "https://www.meaconf.org/"
   title = "Presented Research Paper in MEA Conference"
@@ -26,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = "files/meaconf.pdf"
   date_start = "2020-01-03"
   date_end = ""
-  description = "blablabla"
+  description = "The Virtual Conference presented recent, modern and globally relevant papers and research done in the topics of Economics, Management and Accounting. Papers were published in the Conference Proceedings at: https://www.dpublication.com/wp-content/uploads/2020/03/37-147.pdf. "
 
 
 [[item]]
@@ -37,7 +47,7 @@ date_format = "Jan 2006"
   certificate_url = "files/TimeSeries.jpg"
   date_start = "2019-12-01"
   date_end = ""
-  description = ""
+  description = "Implementation of Time Series Analysis on various time-dependent data to use in Financial Analysis, Data Analysis and Data Science projects"
 
 [[item]]
   organization = "Udemy"
@@ -47,7 +57,7 @@ date_format = "Jan 2006"
   certificate_url = "files/Tableau.jpg"
   date_start = "2019-12-01"
   date_end = ""
-  description = ""
+  description = "The Use of Tableau for Data Visualization"
 
 [[item]]
   organization = "Udemy"
@@ -57,7 +67,7 @@ date_format = "Jan 2006"
   certificate_url = "files/RStatistics.jpg"
   date_start = "2019-10-01"
   date_end = ""
-  description = ""
+  description = "R-Programming skills for Statistical Analysis, Data Visualization and Data Science"
 
 [[item]]
   organization = "London School of Economics"
@@ -67,7 +77,7 @@ date_format = "Jan 2006"
   certificate_url = "files/LSEDiploma.pdf"
   date_start = "2018-12-01"
   date_end = ""
-  description = ""
+  description = "Top 15% of the Graduating Class"
   
 [[item]]
   organization = "American University of Beirut"
@@ -77,7 +87,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-01-06"
   date_end = ""
-  description = "Dr. Basil Fuleihan graduated from AUB in 1984 with a BA in economics. He went on to earn a master’s degree at Yale University and a doctorate at Columbia University. He returned to Lebanon in 1993 to embark on a 12-year political career and advised many of Lebanon’s leading politicians. He was appointed minister of economy and trade and elected a member of Parliament in 2000. A prominent economist and politician, Fuleihan was tragically killed by the bomb blast that assassinated former Prime Minister Rafic Hariri on February 14, 2005. This award was established by his friends in 2015 and is awarded to the graduating student with a BA in economics with the highest average over his/her period of study at AUB"
+  description = " This is awarded to the graduating student with a BA in economics with the highest average over his/her period of study at AUB. Dr. Basil Fuleihan graduated from AUB in 1984 with a BA in economics. He went on to earn a master’s degree at Yale University and a doctorate at Columbia University. He returned to Lebanon in 1993 to embark on a 12-year political career and advised many of Lebanon’s leading politicians. He was appointed minister of economy and trade and elected a member of Parliament in 2000. A prominent economist and politician, Fuleihan was tragically killed by the bomb blast that assassinated former Prime Minister Rafic Hariri on February 14, 2005."
   
 [[item]]
   organization = "American University of Beirut"
@@ -87,6 +97,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-01-06"
   date_end = ""
-  description = "blablabla"
+  description = "Students submit essays about the importance of a Liberal Arts education in Scientific and globally essential fields such as Engineering, Science and Medicine. The top 3 essays won an award, were dinstinguished in the University's 150th Founder's Day celebration and received a personal invite to discuss and meet with AUB's president: Dr. Fadlo Khoury."
 
 +++

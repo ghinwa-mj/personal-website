@@ -5,15 +5,16 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 70  # Order that this section will appear.
 
-title = "Academic Kickstart"
-subtitle = ""
+title = "Gallery"
+subtitle = "A compilation of Cartwheels I have done in Places I have visited"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
+  view="3"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -25,8 +26,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
@@ -50,9 +51,27 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **Academic Kickstart** template!
+<!-- To add photos: -->
 
-Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
+{{< figure library="true" src="CartWheel/Cartwheel.JPG" title="" lightbox="true" width="300" >}}
+{{< figure library="true" src="CartWheel/Cartwheel2.JPG" title="" lightbox="true" width="300" >}}
+{{< figure library="true" src="CartWheel/Cartwheel3.JPG" title="" lightbox="true" width="300" >}}
+{{< figure library="true" src="CartWheel/Cartwheel4.JPG" title="" lightbox="true" width="300" >}}
+{{< figure library="true" src="CartWheel/Cartwheel5.JPG" title="" lightbox="true" width="300" >}}
+{{< figure library="true" src="CartWheel/Cartwheel6.JPG" title="" lightbox="true" width="300" >}}
+{{< figure library="true" src="CartWheel/Cartwheel7.JPG" title="" lightbox="true" width="300" >}}
+{{< figure library="true" src="CartWheel/Cartwheel8.JPG" title="" lightbox="true" width="300" >}}
+{{< figure library="true" src="CartWheel/Cartwheel9.JPG" title="" lightbox="true" width="300" >}}
+{{< figure library="true" src="CartWheel/Cartwheel10.JPG" title="" lightbox="true" width="300" >}}
+{{< figure library="true" src="CartWheel/Cartwheel11.JPG" title="" lightbox="true" width="300" >}}
+{{< figure library="true" src="CartWheel/Cartwheel12.JPG" title="" lightbox="true" width="300" >}} 
+{{< figure library="true" src="CartWheel/Cartwheel13.JPG" title="" lightbox="true" width="300" >}}
+{{< figure library="true" src="CartWheel/Cartwheel14.JPG" title="" lightbox="true" width="300" >}}
+
+
+<!-- Welcome to the **Academic Kickstart** template! -->
+
+<!-- Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
 
 For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
 
@@ -72,4 +91,4 @@ This homepage section is an example of adding [elements](https://sourcethemes.co
 Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
 
 **To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
+{{% /alert %}} -->

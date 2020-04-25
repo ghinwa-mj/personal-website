@@ -77,3 +77,5 @@ user_groups:
 Ghinwa Moujaes is an economist by training and practice. She is currently working as an economic consultant at Conway Advisory, a botique consultancy based in Berlin, specialized in Foreign Direct Investment projects. She has consulted various government in the Middle East and Northern America about their FDI attraction strategies. 
 
 Ghinwa graduated with distinction from the London School of Economics. Her MSc thesis contributed to a World Bank study on the success factors of Special Economic Zones. Her research focus was on how Small and Medium enterprises can benefit from the local presence of foreign direct investment, within a Special Economic Zone.
+
+Ghinwa has lived, worked or studied in 5 different countries around the world, making her highly used to leveraging diversity for creative thinking and innovation.
