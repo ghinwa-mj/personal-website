@@ -1,0 +1,33 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<div class="row featurette">
+  {{ with $page.Title }}
+  <div class="col-md-12 section-heading">
+    <h1>{{ . | markdownify | emojify }}</h1>
+    {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
+  </div>
+  {{ end }}
+
+  {{ with $page.Content }}
+  <div class="col-md-12">
+    {{ . }}
+  </div>
+  {{ end }}
+
+  {{ range $page.Params.feature }}
+  {{ $pack := or .icon_pack "fas" }}
+  {{ $pack_prefix := $pack }}
+  {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+    {{ $pack_prefix = "fa" }}
+  {{ end }}
+  <div class="col-12 col-sm-4">
+    <div class="featurette-icon" style="justify-content: center;">
+      {{ with .icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i>{{ end }}
+      {{ with .src }}<img style="display: inline; padding: 20px;" src="img/{{.}}" width=100/>{{ end }}
+    </div>
+    <h3>{{ .name | markdownify | emojify }}</h3>
+    {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+  </div>
+  {{ end }}
+</div>

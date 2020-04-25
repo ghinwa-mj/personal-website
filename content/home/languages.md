@@ -15,20 +15,17 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
+  src = "languages/english.png"
   name = "English"
   description = "Bi-Native" 
 
 [[feature]]
-  icon = "chart-area"
-  icon_pack = "fas"
+  src = "languages/arabic.png"
   name = "Arabic"
   description = "Bi-Native"
 
 [[feature]]
-  icon = "book-open"
-  icon_pack = "fas"
+  src = "languages/french.png"
   name = "French"
   description = "Fluent" 
 

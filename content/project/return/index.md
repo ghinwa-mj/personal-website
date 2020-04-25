@@ -41,32 +41,34 @@ slides: ""
 ---
 
 <small>
-<p style="text-align: center;"> I avoided the pen and paper for so long </p>
-<p style="text-align: center;"> It was the only thing, which would bring you back  </p>
-<p style="text-align: center;"> And feeling your presence would be so wrong </p>
-<p style="text-align: center;"> And the illustration of the only thing I lack  </p>
-<p style="text-align: center;"> My pen missed and longed for my hand </p>
-<p style="text-align: center;"> And my paper was tired and white </p>
-<p style="text-align: center;"> But going back to the lost and familiar land  </p>
-<p style="text-align: center;"> I could not bear for my emotions to be so bright </p>
-<p style="text-align: center;">  </p>
-<p style="text-align: center;"> I’ve fought for my right to forget </p>
-<p style="text-align: center;"> To let go of memories that turned into nothing more </p>
-<p style="text-align: center;"> But closure and clarity, I just would not get </p>
-<p style="text-align: center;"> And my hands, oh my hands, they were so sore </p>
-<p style="text-align: center;">  </p>
-<p style="text-align: center;"> They were always longing for something </p>
-<p style="text-align: center;"> But my head was weary and only wanted to fight </p>
-<p style="text-align: center;"> But that something, even you could not bring </p>
-<p style="text-align: center;"> Because you were no longer associated with light </p>
-<p style="text-align: center;">  </p>
-<p style="text-align: center;"> Closure, clarity I’ve learned to let go  </p>
-<p style="text-align: center;"> Because freedom was too high a price to pay </p>
-<p style="text-align: center;"> And forgiveness. I probably won’t be able to do so  </p>
-<p style="text-align: center;"> But it gets better day-by-day </p>
-<p style="text-align: center;">  </p>
-<p style="text-align: center;"> And one sunshiny morning </p>
-<p style="text-align: center;"> Alone with my cup of tea </p>
-<p style="text-align: center;"> My pen and paper will start to sing </p>
-<p style="text-align: center;"> Because their poet has come back to be </p>
+<p style="text-align: center;">
+I avoided the pen and paper for so long <br/>
+It was the only thing, which would bring you back  <br/>
+And feeling your presence would be so wrong <br/>
+And the illustration of the only thing I lack  <br/>
+My pen missed and longed for my hand <br/>
+And my paper was tired and white <br/>
+But going back to the lost and familiar land  <br/>
+I could not bear for my emotions to be so bright <br/>
+<br/>
+I’ve fought for my right to forget <br/>
+To let go of memories that turned into nothing more <br/>
+But closure and clarity, I just would not get <br/>
+And my hands, oh my hands, they were so sore <br/>
+<br/>
+They were always longing for something <br/>
+But my head was weary and only wanted to fight <br/>
+But that something, even you could not bring <br/>
+Because you were no longer associated with light <br/>
+<br/>
+Closure, clarity I’ve learned to let go  <br/>
+Because freedom was too high a price to pay <br/>
+And forgiveness. I probably won’t be able to do so  <br/>
+But it gets better day-by-day <br/>
+<br/>
+And one sunshiny morning <br/>
+Alone with my cup of tea <br/>
+My pen and paper will start to sing <br/>
+Because their poet has come back to be 
+</p>
 </small>

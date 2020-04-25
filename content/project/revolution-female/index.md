@@ -6,7 +6,7 @@ summary: ""
 authors: [_Ghinwa Moujaes_]
 tags: []
 categories: []
-date: 2020-04-25T14:06:44+02:00
+date: 2020-04-20T14:06:44+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -43,31 +43,32 @@ slides: ""
 _On Women & Revolutions_
 
 <small>
-<p style="text-align: center;"> Let the woman in you roar </p>
-<p style="text-align: center;"> Because for too long, she’s been silenced </p>
-<p style="text-align: center;"> Let the woman in you fight </p>
-<p style="text-align: center;"> Because they expected you to always be frightened </p>
 <p style="text-align: center;"> 
-<p style="text-align: center;"> Let the woman in you scream </p>
-<p style="text-align: center;"> Because your country needs you to fight today </p>
-<p style="text-align: center;"> Let the woman in you glow </p>
-<p style="text-align: center;"> Because without you, this revolution is so grey </p>
-<p style="text-align: center;"> 
-<p style="text-align: center;"> Rise from the ashes because </p>
-<p style="text-align: center;"> For too long, too much has been taken from you </p>
-<p style="text-align: center;"> Rise from the ashes and see </p>
-<p style="text-align: center;"> This land is for me & for you too </p>
-<p style="text-align: center;"> Rise from the ashes and say </p>
-<p style="text-align: center;"> Unity, unity what a beautiful view </p>
-<p style="text-align: center;"> Rise from the ashes and see </p>
-<p style="text-align: center;"> Your hopes will never again be so few </p>
-<p style="text-align: center;"> 
-<p style="text-align: center;"> This revolution is female  </p>
-<p style="text-align: center;"> And our rightful future we will declare </p>
-<p style="text-align: center;"> This revolution is inclusive </p>
-<p style="text-align: center;"> For too long, they’ve made us question our own flair </p>
-<p style="text-align: center;"> This revolution is fearless </p>
-<p style="text-align: center;"> And our leadership, they will have to endure </p>
-<p style="text-align: center;"> This revolution is endless </p>
-<p style="text-align: center;"> That, my determination can assure </p>
+Let the woman in you roar <br/>
+Because for too long, she’s been silenced <br/>
+Let the woman in you fight <br/>
+Because they expected you to always be frightened <br/>
+Let the woman in you scream <br/>
+Because your country needs you to fight today <br/>
+Let the woman in you glow <br/>
+Because without you, this revolution is so grey <br/>
+<br/>
+Rise from the ashes because <br/>
+For too long, too much has been taken from you <br/>
+Rise from the ashes and see <br/>
+This land is for me & for you too <br/>
+Rise from the ashes and say <br/>
+Unity, unity what a beautiful view <br/>
+Rise from the ashes and see <br/>
+Your hopes will never again be so few <br/>
+<br/>
+This revolution is female  <br/>
+And our rightful future we will declare <br/>
+This revolution is inclusive <br/>
+For too long, they’ve made us question our own flair <br/>
+This revolution is fearless <br/>
+And our leadership, they will have to endure <br/>
+This revolution is endless <br/>
+That, my determination can assure <br/> 
+</p>
 </small>

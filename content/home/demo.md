@@ -5,11 +5,11 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Gallery"
-subtitle = "A compilation of Cartwheels I have done in Places I have visited"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,24 +50,6 @@ subtitle = "A compilation of Cartwheels I have done in Places I have visited"
  # CSS class.
  css_class = ""
 +++
-
-<!-- To add photos: -->
-
-{{< figure library="true" src="CartWheel/Cartwheel.JPG" title="" lightbox="true" width="300" >}}
-{{< figure library="true" src="CartWheel/Cartwheel2.JPG" title="" lightbox="true" width="300" >}}
-{{< figure library="true" src="CartWheel/Cartwheel3.JPG" title="" lightbox="true" width="300" >}}
-{{< figure library="true" src="CartWheel/Cartwheel4.JPG" title="" lightbox="true" width="300" >}}
-{{< figure library="true" src="CartWheel/Cartwheel5.JPG" title="" lightbox="true" width="300" >}}
-{{< figure library="true" src="CartWheel/Cartwheel6.JPG" title="" lightbox="true" width="300" >}}
-{{< figure library="true" src="CartWheel/Cartwheel7.JPG" title="" lightbox="true" width="300" >}}
-{{< figure library="true" src="CartWheel/Cartwheel8.JPG" title="" lightbox="true" width="300" >}}
-{{< figure library="true" src="CartWheel/Cartwheel9.JPG" title="" lightbox="true" width="300" >}}
-{{< figure library="true" src="CartWheel/Cartwheel10.JPG" title="" lightbox="true" width="300" >}}
-{{< figure library="true" src="CartWheel/Cartwheel11.JPG" title="" lightbox="true" width="300" >}}
-{{< figure library="true" src="CartWheel/Cartwheel12.JPG" title="" lightbox="true" width="300" >}} 
-{{< figure library="true" src="CartWheel/Cartwheel13.JPG" title="" lightbox="true" width="300" >}}
-{{< figure library="true" src="CartWheel/Cartwheel14.JPG" title="" lightbox="true" width="300" >}}
-
 
 <!-- Welcome to the **Academic Kickstart** template! -->
 
